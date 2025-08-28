@@ -6,11 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=prince1587&label=Profile%20views&color=0e75b6&style=flat" alt="prince1587" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prince1587&theme=onedark" alt="prince1587 trophies" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=prince1587&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Spring Boot, System Design, and CI/CD Pipelines**
 - 💬 Ask me about **react, Data Structure, JavaScript**
