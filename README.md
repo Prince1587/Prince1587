@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=prince1587&label=Profile%20views&color=0e75b6&style=flat" alt="prince1587" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prince1587&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=prince1587&theme=flat)
 
 - 🌱 I’m currently learning **Spring Boot, System Design, and CI/CD Pipelines**
 - 💬 Ask me about **react, Data Structure, JavaScript**
