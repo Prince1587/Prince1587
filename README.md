@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<p align="center"><b>GitHub:</b> <a href="https://github.com/prince1587">prince1587</a></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prince1587&label=Profile%20views&color=0e75b6&style=flat" alt="prince1587" />
@@ -7,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prince1587" alt="prince1587" />
+    <img src="https://github-profile-trophy.vercel.app/?username=prince1587&theme=onedark" alt="prince1587 trophies" />
   </a>
 </p>
 
@@ -19,13 +20,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/prince-kumar-179138231/" target="blank">
+  <a href="https://www.linkedin.com/in/prince-kumar-179138231/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prince Kumar | LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/ps1587882" target="blank">
+  <a href="https://www.hackerrank.com/ps1587882" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prince Kumar | HackerRank" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/prince1587882/" target="blank">
+  <a href="https://leetcode.com/prince1587882/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prince Kumar | LeetCode" height="30" width="40" />
   </a>
 </p>
