@@ -5,12 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=prince1587&label=Profile%20views&color=0e75b6&style=flat" alt="prince1587" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince1587" alt="prince1587" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot, System Design, and CI/CD Pipelines**
 - 💬 Ask me about **react, Data Structure, JavaScript**
 - 📫 How to reach me **ps1587882@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17yqhTPwTkM4gQgWvXIPuTD8R82Kv6GMO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1umrNX7sF9HnMw8zIgkujR4kaC1fZKIni/view?usp=sharing)
 - ⚡ Fun fact **I can debug CSS faster than I can decide what to eat 😄**
 
 <h3 align="left">Connect with me:</h3>
