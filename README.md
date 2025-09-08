@@ -9,6 +9,10 @@
 </div>
 
 ---
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prince1587&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
 ## 🎯 About Me
 
@@ -84,10 +88,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince1587&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prince1587&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
 
 ## 🎯 Problem Solving Stats
 
