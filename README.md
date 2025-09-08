@@ -1,8 +1,8 @@
-# 🚀 Prince Kumar | Software Engineer & Problem Solver
+# 🚀 Prince Kumar | Aspiring Software Engineer & Problem Solver
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Prince+%F0%9F%91%8B;Full+Stack+Developer;System+Design+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Prince+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=prince1587&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile Views" />
   
@@ -84,6 +84,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince1587&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prince1587&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
 ## 🎯 Problem Solving Stats
 
 <div align="center">
@@ -111,9 +116,7 @@
   ### 🎲 Random Dev Quote
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
   
-  ### 🐍 Contribution Graph
-  ![Snake animation](https://github.com/prince1587/prince1587/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
 
 ---
