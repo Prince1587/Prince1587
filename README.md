@@ -9,11 +9,6 @@
 </div>
 
 ---
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prince1587&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
 ## 🎯 About Me
 
 🌍 **Based in:** India 🇮🇳  
