@@ -1,99 +1,138 @@
-<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+# 🚀 Prince Kumar | Software Engineer & Problem Solver
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prince1587&label=Profile%20views&color=0e75b6&style=flat" alt="prince1587" />
-</p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Prince+%F0%9F%91%8B;Full+Stack+Developer;System+Design+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=prince1587&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile Views" />
+  
+</div>
 
-- 🌱 I’m currently learning **Spring Boot, System Design, and CI/CD Pipelines**
-- 💬 Ask me about **react, Data Structure, JavaScript**
-- 📫 How to reach me **ps1587882@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1umrNX7sF9HnMw8zIgkujR4kaC1fZKIni/view?usp=sharing)
-- ⚡ Fun fact **I can debug CSS faster than I can decide what to eat 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/prince-kumar-179138231/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prince Kumar | LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ps1587882" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prince Kumar | HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/prince1587882/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prince Kumar | LeetCode" height="30" width="40" />
-  </a>
-</p>
+## 🎯 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-</p>
+```javascript
+const prince = {
+    location: "India 🇮🇳",
+    role: "Software Engineer",
+    currentFocus: ["Spring Boot", "System Design", "CI/CD Pipelines"],
+    askMeAbout: ["React", "Data Structures", "JavaScript", "Problem Solving"],
+    funFact: "I debug CSS faster than I decide what to eat 😄",
+    lifePhilosophy: "Code with passion, debug with patience ✨"
+};
+```
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince1587&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prince1587&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince1587&" alt="GitHub Streak" />
-</p>
+## 🔥 Current Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 Learning & Growing
+- 🍃 **Spring Boot** - Building robust backend systems
+- 🏗️ **System Design** - Scaling applications efficiently  
+- 🔄 **CI/CD Pipelines** - Automating deployment workflows
+- 📚 **Advanced Algorithms** - Optimizing solutions
+
+</td>
+<td width="50%">
+
+### 💡 Recent Interests
+- ☁️ **Cloud Architecture** patterns
+- 🔐 **Security** best practices
+- 🐳 **Containerization** with Docker
+- 📊 **Performance** optimization
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Magic ✨
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend Power 💪
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database & Cloud ☁️
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### DevOps & Tools 🔧
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prince1587&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince1587&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince1587&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prince1587&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+## 🎯 Problem Solving Stats
+
+<div align="center">
+  
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/prince1587882?theme=dark&font=Noto%20Sans)](https://leetcode.com/prince1587882/)
+  
+</div>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-179138231/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ps1587882)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prince1587882/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ps1587882@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1umrNX7sF9HnMw8zIgkujR4kaC1fZKIni/view?usp=sharing)
+
+</div>
+
+## 💫 Fun Zone
+
+<div align="center">
+  
+  ### 🎲 Random Dev Quote
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+  ### 🐍 Contribution Graph
+  ![Snake animation](https://raw.githubusercontent.com/prince1587/prince1587/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **"The best error message is the one that never shows up."** ✨
+  
+  *Thanks for visiting! Let's build something amazing together* 🚀
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
