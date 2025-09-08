@@ -1,8 +1,8 @@
-# 🚀 Prince Kumar | Aspiring Software Engineer
+# 🚀 Prince Kumar | Software Engineer & Problem Solver
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Prince+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Prince+%F0%9F%91%8B;Full+Stack+Developer;System+Design+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=prince1587&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile Views" />
   
@@ -12,16 +12,12 @@
 
 ## 🎯 About Me
 
-```javascript
-const prince = {
-    location: "India 🇮🇳",
-    role: "Software Engineer",
-    currentFocus: ["Spring Boot", "System Design", "CI/CD Pipelines"],
-    askMeAbout: ["React", "Data Structures", "JavaScript", "Problem Solving"],
-    funFact: "I debug CSS faster than I decide what to eat 😄",
-    lifePhilosophy: "Code with passion, debug with patience ✨"
-};
-```
+🌍 **Based in:** India 🇮🇳  
+💼 **Role:** Software Engineer  
+🎯 **Currently Focusing on:** Spring Boot, System Design, and CI/CD Pipelines  
+💬 **Ask me about:** React, Data Structures, JavaScript, and Problem Solving  
+⚡ **Fun fact:** I debug CSS faster than I decide what to eat 😄  
+✨ **Life Philosophy:** Code with passion, debug with patience
 
 ## 🔥 Current Journey
 
@@ -121,7 +117,7 @@ const prince = {
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
   
   ### 🐍 Contribution Graph
-  ![Snake animation](https://raw.githubusercontent.com/prince1587/prince1587/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/prince1587/prince1587/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
